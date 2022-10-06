@@ -31,3 +31,36 @@ Se ha ideado para posibilitar la ramificación y el etiquetado como procesos de 
 - Es muy rápida.
 - Tiene un sistema de trabajo con ramas que lo hace especialmente potente.
 
+Glosario
+
+Git init: 
+
+Este comando se utiliza para inicializar o crear un repositorio local vacío de Git.
+
+Git branch: 
+
+Con este comando se puede preguntar la posición del repositorio en donde nos localizamos; si estás en una rama específica, te saldrá la rama.
+
+Git branch -m main: 
+
+Con este comando se escoge la rama en donde te quieres localizar o hacer cambios.
+
+Git add: 
+
+Este comando se utiliza para agregar carpetas o documentos en el repositorio local.
+
+Git archive: 
+
+Este comando se utiliza para crear un archivo de documentos en un «árbol» específico.
+
+Git commit -m «primer commit»: e
+
+Este comando se utiliza para agregar un elemento al editor de texto de tu repositorio.
+
+Git commit -a «commit»: 
+
+Este comando te permite agregar un commit a todos los archivos de un repositorio.
+
+Git log: 
+
+Con este comando puedes revisar el historial de commits de un programa.
