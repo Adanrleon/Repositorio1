@@ -1,5 +1,7 @@
 # Introducción a Git y GitHub
 
+![GITHUB](https://pabpereza.dev/blog/2021/12/12/errores-comunes-en-git/featured_git_hucca589efda708c57ef846517ae61dd64_57522_700x450_fit_catmullrom_3.png)
+
 ## - Indice
 
 _1. ¿Qué es Git?_
